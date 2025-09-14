@@ -1,5 +1,3 @@
-﻿# Dictionary
-
 # Word Count & Dictionary Utilities (Python)
 
 Small, focused Python exercises that show clean dictionary patterns and a simple word-frequency tool. Great for reading, quick review, and unit-tested examples.
@@ -48,3 +46,4 @@ a occurs 1 times
 another occurs 1 times
 ...
 The most frequent word is here which occurs 2 times
+
